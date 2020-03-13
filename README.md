@@ -2,7 +2,7 @@ fork自[@hackerxu](https://github.com/taizilongxu)的Repositories，根据自己
 
 ## 安装教程
 
-参考黑果小兵: https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
+参考
 
 ## 电脑配置：
 * 主板：ASUS ROG STRIX B360-I GAMING
@@ -21,7 +21,12 @@ fork自[@hackerxu](https://github.com/taizilongxu)的Repositories，根据自己
 * USB3.0 & USB3.1
 
 ### 无线&蓝牙的解决方案：
-* 将主板原装的 Intel Wireless-AC 9560拆下，替换为 BCM94352Z 
+* 将主板原装的 Intel Wireless-AC 9560拆下，替换为 BCM94352Z
+* 系统安装后把`EFI/CLOVER/kexts/Other/Bluetooth/DW1820A/`下面的三个文件复制到`/Library/Extensions/`下
 
 ### 不正常功能：
 * HDMI 4K 分辨率只有 2K
+
+### 参考资料
+* [黑果小兵：macOS Catalina 10.15.3 19D76 正式版 with Clover 5103原版镜像[双EFI版]](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html)
+* [黑果小兵：macOS Catalina 10.15安装中常见的问题及解决方法](https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html)
