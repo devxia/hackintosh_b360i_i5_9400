@@ -1,3 +1,5 @@
+fork自[@hackerxu](https://github.com/taizilongxu)的Repositories，根据自己的情况稍作修改
+
 ## 安装教程
 
 参考黑果小兵: https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
