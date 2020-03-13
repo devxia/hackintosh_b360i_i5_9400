@@ -1,8 +1,4 @@
-fork自[@hackerxu](https://github.com/taizilongxu)的Repositories，根据自己的情况稍作修改
-
-## 安装教程
-
-参考
+* fork自[@hackerxu](https://github.com/taizilongxu)的Repositories，根据自己的情况稍作修改
 
 ## 电脑配置：
 * 主板：ASUS ROG STRIX B360-I GAMING
