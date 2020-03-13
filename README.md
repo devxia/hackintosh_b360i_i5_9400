@@ -22,7 +22,7 @@ fork自[@hackerxu](https://github.com/taizilongxu)的Repositories，根据自己
 
 ### 无线&蓝牙的解决方案：
 * 将主板原装的 Intel Wireless-AC 9560拆下，替换为 BCM94352Z
-* 系统安装后把`EFI/CLOVER/kexts/Other/Bluetooth/DW1820A/`下面的三个文件复制到`/Library/Extensions/`下
+* 系统安装后把`EFI/CLOVER/kexts/Other/Bluetooth/DW1820A/`下面的三个文件复制到`/Library/Extensions/`下（实测DW1560目录下的文件无效）
 
 ### 不正常功能：
 * HDMI 4K 分辨率只有 2K
